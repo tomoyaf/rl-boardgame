@@ -1,1 +1,1 @@
-[{"paths": ["group1-shard1of1"], "weights": [{"name": "Reshape/shape", "shape": [2], "dtype": "int32"}, {"name": "Variable", "shape": [36, 36], "dtype": "float32"}, {"name": "Variable_2", "shape": [36, 36], "dtype": "float32"}]}]
+[{"paths": [], "weights": []}]

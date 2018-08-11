@@ -82,7 +82,6 @@ header > span {
 }
 
 #info {
-    background-color: #ffffff;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 5px 2rem 1fr 5px;

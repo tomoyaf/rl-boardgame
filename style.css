@@ -50,6 +50,8 @@ header > span {
     border: 1px solid rgba(0,0,0,0.26);
     border-left-width: 0px;
     border-top-width: 0px;
+
+    cursor: pointer;
 }
 
 #field > div:nth-child(6n) {
@@ -58,44 +60,6 @@ header > span {
 
 #field > div:nth-child(n + 31) {
     border-bottom-width: 0px;
-}
-
-.field__cell--x_0 {
-    grid-column: 1/2;
-}
-.field__cell--x_1 {
-    grid-column: 2/3;
-}
-.field__cell--x_2 {
-    grid-column: 3/4;
-}
-.field__cell--x_3 {
-    grid-column: 4/5;
-}
-.field__cell--x_4 {
-    grid-column: 5/6;
-}
-.field__cell--x_5 {
-    grid-column: 6/7;
-}
-
-.field__cell--y_0 {
-    grid-row: 1/2;
-}
-.field__cell--y_1 {
-    grid-row: 2/3;
-}
-.field__cell--y_2 {
-    grid-row: 3/4;
-}
-.field__cell--y_3 {
-    grid-row: 4/5;
-}
-.field__cell--y_4 {
-    grid-row: 5/6;
-}
-.field__cell--y_5 {
-    grid-row: 6/7;
 }
 
 #field > div > .black {
